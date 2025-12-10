@@ -1,8 +1,8 @@
 services:
   app:
     working_dir: /app
-    volumes:
-      - "./app:/app"
     ports:
       - "8080:8080"
     command: make dev
+    volumes:
+      - "./app:/app"
