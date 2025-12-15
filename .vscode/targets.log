@@ -1,0 +1,288 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for i386-pc-mingw32
+ 
+make.exe: *** ��� ������� ��� ������ ���� `all'.  �������.
+
+
+# ���� ������ Make, ���������� Mon Dec 15 13:35:57 2025
+
+# ����������
+
+# ��������������
+<D = $(patsubst %/,%,$(dir $<))
+# ��������������
+?F = $(notdir $?)
+# ���������� � �����
+VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
+# Make-����
+MAKEFLAGS = Rrqp
+# ��������������
+?D = $(patsubst %/,%,$(dir $?))
+# ��������������
+@D = $(patsubst %/,%,$(dir $@))
+# ���������� � �����
+HOMEDRIVE = C:
+# ��������������
+@F = $(notdir $@)
+# ��������������
+^D = $(patsubst %/,%,$(dir $^))
+# Make-����
+CURDIR := c:/Users/kurag/Desktop/proga/docker/devops-for-developers-project-74
+# �� ���������
+SHELL := sh.exe
+# ���������� � �����
+WINDIR = C:\WINDOWS
+# ���������� � �����
+VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"ru","resolvedLanguage":"en","defaultMessagesFile":"C:\\Users\\kurag\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\nls.messages.json","locale":"en-us","availableLanguages":{}}
+# ���������� � �����
+ONEDRIVE = C:\Users\kurag\OneDrive
+# ���������� � �����
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# Make-����
+MAKEFILE_LIST := 
+# ���������� � �����
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# ���������� � �����
+TMP = C:\Users\kurag\AppData\Local\Temp
+# ���������� � �����
+PROGRAMW6432 = C:\Program Files
+# ���������� � �����
+PROGRAMDATA = C:\ProgramData
+# ���������� � �����
+VSCODE_CWD = C:\Users\kurag\Desktop\proga\docker
+# ���������� � �����
+PATH = C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\kurag\AppData\Local\Programs\Python\Python313\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\kurag\AppData\Local\Programs\Python\Python313;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Users\kurag\AppData\Local\Programs\Python\Python314;C:\Users\kurag\AppData\Local\Programs\Python\Python314\Scripts;:PATH%;C:\Users\kurag\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kurag\AppData\Roaming\npm;C:\Users\kurag\Desktop\proga\�������\ngrok;C:\Program Files (x86)\GnuWin32\bin;C:\Users\kurag\.dotnet\tools;
+# ���������� � �����
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# ���������� � �����
+CHOCOLATEYLASTPATHUPDATE = 133929052991716106
+# ���������� � �����
+PROCESSOR_ARCHITECTURE = x86
+# ���������� � �����
+USERPROFILE = C:\Users\kurag
+# ���������� � �����
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# ���������� � �����
+ALLUSERSPROFILE = C:\ProgramData
+# ���������� � �����
+NUMBER_OF_PROCESSORS = 12
+# ���������� � �����
+ELECTRON_RUN_AS_NODE = 1
+# �� ���������
+.FEATURES := target-specific order-only second-expansion else-if archives
+# ��������������
+%F = $(notdir $%)
+# ���������� � �����
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_19592_JBGPJIOLOFXFXURR
+# ���������� � �����
+COMPUTERNAME = DESKTOP-IE94M3A
+# ���������� � �����
+PROGRAMFILES = C:\Program Files (x86)
+# ���������� � �����
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# ���������� � �����
+USERNAME = kurag
+# ���������� � �����
+PUBLIC = C:\Users\Public
+# ���������� � �����
+VSCODE_CODE_CACHE_PATH = C:\Users\kurag\AppData\Roaming\Code\CachedData\618725e67565b290ba4da6fe2d29f8fa1d4e3622
+# ���������� � �����
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# ���������� � �����
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# ���������� � �����
+LOGONSERVER = \\DESKTOP-IE94M3A
+# ���������� � �����
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# ���������� � �����
+USERDOMAIN = DESKTOP-IE94M3A
+# �� ���������
+MAKE = $(MAKE_COMMAND)
+# �� ���������
+MAKECMDGOALS := all
+# ���������� � �����
+VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# �� ���������
+MAKE_VERSION := 3.81
+# ���������� � �����
+__PSLOCKDOWNPOLICY = 0
+# ���������� � �����
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# ��������������
+%D = $(patsubst %/,%,$(dir $%))
+# ���������� � �����
+LOCALAPPDATA = C:\Users\kurag\AppData\Local
+# ���������� � �����
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# �� ���������
+MAKE_COMMAND := make.exe
+# ���������� � �����
+PROCESSOR_ARCHITEW6432 = AMD64
+# �� ���������
+.VARIABLES := 
+# ��������������
+*F = $(notdir $*)
+# ���������� � �����
+PROCESSOR_IDENTIFIER = AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD
+# ���������� � �����
+OS = Windows_NT
+# ���������� � �����
+VSCODE_IPC_HOOK = \\.\pipe\efb41807-1.107.0-main-sock
+# ���������� � �����
+HOMEPATH = \Users\kurag
+# ���������� � �����
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# ���������� � �����
+PROMPT = $P$G
+# ���������� � �����
+MFLAGS = -Rrqp
+# ��������������
+*D = $(patsubst %/,%,$(dir $*))
+# ���������� � �����
+SYSTEMROOT = C:\WINDOWS
+# ��������������
++D = $(patsubst %/,%,$(dir $+))
+# ��������������
++F = $(notdir $+)
+# ���������� � �����
+APPDATA = C:\Users\kurag\AppData\Roaming
+# ���������� � �����
+TEMP = C:\Users\kurag\AppData\Local\Temp
+# ���������� � �����
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# �� ���������
+MAKEFILES := 
+# ��������������
+<F = $(notdir $<)
+# ���������� � �����
+LC_ALL = C
+# ��������������
+^F = $(notdir $^)
+# �� ���������
+SUFFIXES := 
+# ���������� � �����
+SYSTEMDRIVE = C:
+# ���������� � �����
+SESSIONNAME = Console
+# ���������� � �����
+PROCESSOR_REVISION = 2102
+# ���������� � �����
+MAKELEVEL := 0
+# Make-����
+.DEFAULT_GOAL := 
+# ���������� � �����
+LANG = C
+# ���������� � �����
+PROCESSOR_LEVEL = 25
+# ���������� � �����
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# ���������� � �����
+VSCODE_PID = 19592
+# ���������� � �����
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-IE94M3A
+# variable set hash-table stats:
+# Load=86/1024=8%, Rehash=0, Collisions=10/103=10%
+
+# Pattern-specific Variable Values
+
+# ��� �������� ���������� ��������� ��� �����
+
+# ��������
+
+# C:\Users\kurag\AppData\Local\Programs\Python\Python313\Scripts: ���������� �������� �������� ������� stat.
+# C:\Program Files\Docker\Docker\resources\bin (���� C:/Program Files/Docker/Docker/resources/bin, ����� ����������� 1763536012): 13 ������,��� ������������ �����.
+# C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR (���� C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR, ����� ����������� 1755426156): 5 ������,��� ������������ �����.
+# C:\WINDOWS\System32\WindowsPowerShell\v1.0\ (���� C:/WINDOWS/System32/WindowsPowerShell/v1.0/, ����� ����������� 1729627115): 32 ������,��� ������������ �����.
+# C:\WINDOWS\System32\Wbem (���� C:/WINDOWS/System32/Wbem, ����� ����������� 1752160161): 171 ������,��� ������������ �����.
+# . (���� c:/Users/kurag/Desktop/proga/docker/devops-for-developers-project-74, ����� ����������� 1765448821): 15 ������,��� ������������ �����.
+# C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common (���� C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common, ����� ����������� 1760785710): 12 ������,��� ������������ �����.
+# C:\Users\kurag\AppData\Local\Programs\Python\Python314 (���� C:/Users/kurag/AppData/Local/Programs/Python/Python314, ����� ����������� 1764745123): 17 ������,��� ������������ �����.
+# C:\ProgramData\chocolatey\bin (���� C:/ProgramData/chocolatey/bin, ����� ����������� 1748437804): 6 ������,��� ������������ �����.
+# C:\Program Files\nodejs\ (���� C:/Program Files/nodejs/, ����� ����������� 1748265377): 14 ������,��� ������������ �����.
+# :PATH%: ���������� �������� �������� ������� stat.
+# C:\Program Files (x86)\Common Files\Oracle\Java\java8path (���� C:/Program Files (x86)/Common Files/Oracle/Java/java8path, ����� ����������� 1752818772): 5 ������,��� ������������ �����.
+# C:\WINDOWS\System32\OpenSSH\: ���������� �������� �������� ������� stat.
+# C:\Program Files (x86)\Common Files\Oracle\Java\javapath: ���������� �������� �������� ������� stat.
+# C:\Users\kurag\Desktop\proga\�������\ngrok (���� C:/Users/kurag/Desktop/proga/�������/ngrok, ����� ����������� 1748437603): 3 ������,��� ������������ �����.
+# C:\WINDOWS (���� C:/WINDOWS, ����� ����������� 1765551734): 115 ������,��� ������������ �����.
+# C:\Users\kurag\AppData\Local\Programs\Python\Python314\Scripts (���� C:/Users/kurag/AppData/Local/Programs/Python/Python314/Scripts, ����� ����������� 1764745198): 4 ������,��� ������������ �����.
+# C:\Users\kurag\AppData\Local\Programs\Microsoft VS Code\bin (���� C:/Users/kurag/AppData/Local/Programs/Microsoft VS Code/bin, ����� ����������� 1765440882): 5 ������,��� ������������ �����.
+# C:\Program Files\dotnet\ (���� C:/Program Files/dotnet/, ����� ����������� 1763029467): 14 ������,��� ������������ �����.
+# C:\Users\kurag\AppData\Roaming\npm: ���������� �������� �������� ������� stat.
+# C:\Users\kurag\.dotnet\tools: ���������� �������� �������� ������� stat.
+# C:\Users\kurag\AppData\Local\Programs\Python\Python313: ���������� �������� �������� ������� stat.
+# C:\Program Files\Git\cmd (���� C:/Program Files/Git/cmd, ����� ����������� 1763468228): 13 ������,��� ������������ �����.
+# C:\WINDOWS\system32 (���� C:/WINDOWS/system32, ����� ����������� 1765775865): 2999 ������,��� ������������ �����.
+# C:\Program Files (x86)\GnuWin32\bin (���� C:/Program Files (x86)/GnuWin32/bin, ����� ����������� 1762335709): 5 ������,��� ������������ �����.
+
+# 3448 ������,��� impossibilities in 25 directories.
+
+# Implicit Rules
+
+# ������� ������ ���.
+
+# �����
+
+# �� �������� �����:
+all:
+#  ����, ���������� �� ��������� ������.
+#  ������������ ����� ������� ������
+#  ���� �� ����������.
+#  ���� �� ��� ��������.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# �� �������� �����:
+.DEFAULT:
+#  ����� ������� ������ �� ������������.
+#  ����� ��������� �� ���� �� �����������.
+#  ���� �� ��� ��������.
+
+# �� �������� �����:
+makefile:
+#  A default, MAKEFILES, or -include/sinclude makefile.
+#  ������������ ����� ������� ������
+#  ���� �� ����������.
+#  ���� ��� ��������.
+#  ������� ���������� ����������.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# �� �������� �����:
+.SUFFIXES:
+#  ����� ������� ������ �� ������������.
+#  ����� ��������� �� ���� �� �����������.
+#  ���� �� ��� ��������.
+
+# �� �������� �����:
+GNUmakefile:
+#  A default, MAKEFILES, or -include/sinclude makefile.
+#  ������������ ����� ������� ������
+#  ���� �� ����������.
+#  ���� ��� ��������.
+#  ������� ���������� ����������.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# files hash-table stats:
+# Load=5/1024=0%, Rehash=0, Collisions=0/16=0%
+# ���� ������ VPATH
+
+# �� ��������� ���� ������ `vpath'.
+
+# �� ��������� ����� (���������� `VPATH') ���� ������.
+
+# # of strings in strcache: 0
+# # of strcache buffers: 0
+# strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
+# strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
+
+# ������ ���� ������ Make ��������� Mon Dec 15 13:35:57 2025
+
+ 

@@ -1,7 +1,10 @@
+
 services:
   app:
+    image: shukaoriginal/test_docker_proj:latest
     build:
       context: .
       dockerfile: Dockerfile
-    working_dir: /app/app
+    container_name: shlapa_app
+    working_dir: /app
     command: make test
