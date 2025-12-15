@@ -1,4 +1,6 @@
 make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+make.exe: *** ��� ������� ��� ������ ���� `all'.  �������.
+
 # GNU Make 3.81
 # Copyright (C) 2006  Free Software Foundation, Inc.
 # This is free software; see the source for copying conditions.
@@ -6,11 +8,8 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # PARTICULAR PURPOSE.
 
 # This program built for i386-pc-mingw32
- 
-make.exe: *** ��� ������� ��� ������ ���� `all'.  �������.
 
-
-# ���� ������ Make, ���������� Mon Dec 15 13:35:57 2025
+# ���� ������ Make, ���������� Mon Dec 15 16:58:48 2025
 
 # ����������
 
@@ -55,7 +54,7 @@ PROGRAMW6432 = C:\Program Files
 # ���������� � �����
 PROGRAMDATA = C:\ProgramData
 # ���������� � �����
-VSCODE_CWD = C:\Users\kurag\Desktop\proga\docker
+VSCODE_CWD = C:\Users\kurag\AppData\Local\Programs\Microsoft VS Code
 # ���������� � �����
 PATH = C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\kurag\AppData\Local\Programs\Python\Python313\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\kurag\AppData\Local\Programs\Python\Python313;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Users\kurag\AppData\Local\Programs\Python\Python314;C:\Users\kurag\AppData\Local\Programs\Python\Python314\Scripts;:PATH%;C:\Users\kurag\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kurag\AppData\Roaming\npm;C:\Users\kurag\Desktop\proga\�������\ngrok;C:\Program Files (x86)\GnuWin32\bin;C:\Users\kurag\.dotnet\tools;
 # ���������� � �����
@@ -79,7 +78,7 @@ ELECTRON_RUN_AS_NODE = 1
 # ��������������
 %F = $(notdir $%)
 # ���������� � �����
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_19592_JBGPJIOLOFXFXURR
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_19720_VMOZEMCTJSZMWIJS
 # ���������� � �����
 COMPUTERNAME = DESKTOP-IE94M3A
 # ���������� � �����
@@ -183,7 +182,7 @@ PROCESSOR_LEVEL = 25
 # ���������� � �����
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # ���������� � �����
-VSCODE_PID = 19592
+VSCODE_PID = 19720
 # ���������� � �����
 USERDOMAIN_ROAMINGPROFILE = DESKTOP-IE94M3A
 # variable set hash-table stats:
@@ -200,7 +199,7 @@ USERDOMAIN_ROAMINGPROFILE = DESKTOP-IE94M3A
 # C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR (���� C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR, ����� ����������� 1755426156): 5 ������,��� ������������ �����.
 # C:\WINDOWS\System32\WindowsPowerShell\v1.0\ (���� C:/WINDOWS/System32/WindowsPowerShell/v1.0/, ����� ����������� 1729627115): 32 ������,��� ������������ �����.
 # C:\WINDOWS\System32\Wbem (���� C:/WINDOWS/System32/Wbem, ����� ����������� 1752160161): 171 ������,��� ������������ �����.
-# . (���� c:/Users/kurag/Desktop/proga/docker/devops-for-developers-project-74, ����� ����������� 1765448821): 15 ������,��� ������������ �����.
+# . (���� c:/Users/kurag/Desktop/proga/docker/devops-for-developers-project-74, ����� ����������� 1765790255): 15 ������,��� ������������ �����.
 # C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common (���� C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common, ����� ����������� 1760785710): 12 ������,��� ������������ �����.
 # C:\Users\kurag\AppData\Local\Programs\Python\Python314 (���� C:/Users/kurag/AppData/Local/Programs/Python/Python314, ����� ����������� 1764745123): 17 ������,��� ������������ �����.
 # C:\ProgramData\chocolatey\bin (���� C:/ProgramData/chocolatey/bin, ����� ����������� 1748437804): 6 ������,��� ������������ �����.
@@ -214,14 +213,14 @@ USERDOMAIN_ROAMINGPROFILE = DESKTOP-IE94M3A
 # C:\Users\kurag\AppData\Local\Programs\Python\Python314\Scripts (���� C:/Users/kurag/AppData/Local/Programs/Python/Python314/Scripts, ����� ����������� 1764745198): 4 ������,��� ������������ �����.
 # C:\Users\kurag\AppData\Local\Programs\Microsoft VS Code\bin (���� C:/Users/kurag/AppData/Local/Programs/Microsoft VS Code/bin, ����� ����������� 1765440882): 5 ������,��� ������������ �����.
 # C:\Program Files\dotnet\ (���� C:/Program Files/dotnet/, ����� ����������� 1763029467): 14 ������,��� ������������ �����.
-# C:\Users\kurag\AppData\Roaming\npm: ���������� �������� �������� ������� stat.
+# C:\Users\kurag\AppData\Roaming\npm (���� C:/Users/kurag/AppData/Roaming/npm, ����� ����������� 1765785422): 15 ������,��� ������������ �����.
 # C:\Users\kurag\.dotnet\tools: ���������� �������� �������� ������� stat.
 # C:\Users\kurag\AppData\Local\Programs\Python\Python313: ���������� �������� �������� ������� stat.
 # C:\Program Files\Git\cmd (���� C:/Program Files/Git/cmd, ����� ����������� 1763468228): 13 ������,��� ������������ �����.
 # C:\WINDOWS\system32 (���� C:/WINDOWS/system32, ����� ����������� 1765775865): 2999 ������,��� ������������ �����.
 # C:\Program Files (x86)\GnuWin32\bin (���� C:/Program Files (x86)/GnuWin32/bin, ����� ����������� 1762335709): 5 ������,��� ������������ �����.
 
-# 3448 ������,��� impossibilities in 25 directories.
+# 3463 ������,��� impossibilities in 25 directories.
 
 # Implicit Rules
 
@@ -283,6 +282,6 @@ GNUmakefile:
 # strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
 # strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
 
-# ������ ���� ������ Make ��������� Mon Dec 15 13:35:57 2025
+# ������ ���� ������ Make ��������� Mon Dec 15 16:58:48 2025
 
  
