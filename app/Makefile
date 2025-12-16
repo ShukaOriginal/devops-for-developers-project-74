@@ -5,6 +5,14 @@ install:
 
 db-migrate:
 	npm run migrate
+	
+.PHONY: ci
+ci:
+	@code=0; \
+	COMPOSE_FILE=../docker-compose.yml docker compose build --no-cache app || true; \
+	COMPOSE_FILE=../docker-compose.yml docker compose up --abort-on-container-exit --exit-code-from app || code=$$?; \
+	COMPOSE_FILE=../docker-compose.yml docker compose down --volumes --remove-orphans || true; \
+	exit $$code
 
 build:
 	npm run build
