@@ -1,6 +1,6 @@
 make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: *** �� ������ ���� � �� ������ make-����.  �������.
+
 make.exe: Entering directory `c:/Users/kurag/Desktop/proga/docker/devops-for-developers-project-74'
 make.exe: Leaving directory `c:/Users/kurag/Desktop/proga/docker/devops-for-developers-project-74'
  
-make.exe: *** �� ������ ���� � �� ������ make-����.  �������.
-
